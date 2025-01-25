@@ -3,7 +3,6 @@
 👨🏼‍💻 Working as a frontend developer since 2019<br/>
 📍 Based in Ethiopia<br/>
 🚀 Currently Advancing in:<br/>
-  - Mobile Development (React Native)<br/>
   - Web Graphics and 3D Experiences (Learning Three.js)
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
